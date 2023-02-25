@@ -3,7 +3,6 @@
 <h3 align="center">about me</h3>
 <div align="center">
 fullstack developer. <br>
-telegram - @hashbreaker
 </div>
 
 <h3 align="center">Languages</h3>
