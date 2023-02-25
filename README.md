@@ -1,12 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&fontAlign=80&fontAlignY=40&color=gradient&customColorList=24" />
 
-<h3 align="center">
-  _               _     
- | |             | |    
- | |__   __ _ ___| |__  
- | '_ \ / _` / __| '_ \ 
- | | | | (_| \__ \ | | |
- |_| |_|\__,_|___/_| |_|</h3>
+<h3 align="center">about me</h3>
 <div align="center">
 fullstack developer. <br>
 telegram - @hashbreaker
