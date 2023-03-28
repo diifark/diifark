@@ -3,6 +3,7 @@
 <h3 align="center">about me</h3>
 <div align="center">
 fullstack developer. <br>
+telegram - https://t.me/chulthu <br>
 </div>
 
 <h3 align="center">Languages</h3>
