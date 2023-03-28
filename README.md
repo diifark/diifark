@@ -3,8 +3,6 @@
 <h3 align="center">about me</h3>
 <div align="center">
 fullstack developer. <br>
-also
-discord - diifark#5877 <br>
 </div>
 
 <h3 align="center">Languages</h3>
